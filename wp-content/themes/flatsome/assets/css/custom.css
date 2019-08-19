@@ -1,0 +1,85 @@
+body,h1,h2,h3,h4,h5,h6,p{
+	font-family: 'Roboto', sans-serif!important;
+}
+.thongdiep-border{
+	
+    border-radius: 10px;
+    padding: 15px!important;
+  
+}
+.thongdiep-border .col-inner{
+	border: 1px solid #003366;
+    border-radius: 10px;
+    padding: 20px 0 10px!important;
+}
+.img-text-center{
+	margin:auto;
+}
+.about .col-inner{
+	padding: 20px;
+	text-align: justify;
+}
+.su-menh-col{
+	margin-top: 40px;
+}
+.accordion{
+	margin-top:50px;
+}
+.text-tuyen-dung{
+	padding-top: 20px!important;
+	margin:auto!important;
+	border-left: none!important;
+}
+.position{
+	color:#fff;
+}
+.icon-box-td{
+	margin-bottom: 20px;
+}
+.row-position{
+	margin-top:35px;
+}
+.textwidget p{
+	font-size: 14px!important;
+}
+.widget li{
+	list-style-type: circle!important;
+	margin-left: 16px;
+	font-size: 14px;
+}
+.wpcf7-form{
+	background: #fff;
+    border: 1px solid #38b337;
+    border-radius: 3px;
+    box-shadow: 2px 2px 10px #1E272E;
+    font-size: 15px;
+}
+.wpcf7 p {
+    padding: 0px 20px!important;
+}
+.wpcf7-mail-sent-ng{
+	color:red!important;
+}
+.tieu-de{
+	background: #F3C139;
+    padding: 8px 10px;
+    color: white;
+    font-size: 13.5px;
+    display: block;
+    width: 100%;
+    font-family: "roboto",sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 15px;
+}
+/*login social */
+.nav-dark .social-icons .button.is-outline, .dark .social-icons .button.is-outline {
+    margin-right: 10px!important;
+}
+.footer-primary{
+	float: none!important;
+	margin:auto;
+}
+.copyright-footer p{
+	margin:0 !important;
+}

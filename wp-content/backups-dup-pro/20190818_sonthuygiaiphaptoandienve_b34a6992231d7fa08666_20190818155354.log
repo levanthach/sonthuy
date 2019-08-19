@@ -1,0 +1,141 @@
+********************************************************************************
+DUPLICATOR PRO PACKAGE-LOG: 2019-08-18 15:55:17
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	3.7.3.1
+WORDPRESS:	5.0.2
+PHP INFO:	7.2.12 | SAPI: apache2handler
+SERVER:		Apache/2.4.37 (Win32) OpenSSL/1.1.1 PHP/7.2.12 
+PHP TIME LIMIT: [7200] not allowed 
+PHP MAX MEMORY: 5000M (256M default) 
+RUN TYPE: Manual
+MEMORY STACK: 6MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP 
+MYSQLDUMP:    Is Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:33 | filtered:0 | create:33 
+FILTERED: [] 
+RESPONSE: Ran from C:/xampp/mysql/bin/mysqldump.exe 
+SQL CREATED: 20190818_sonthuygiaiphaptoandienve_b34a6992231d7fa08666_20190818155354_database.sql 
+SQL FILE SIZE: 2.1MB 
+SQL FILE TIME: 2019-08-18 15:55:18 
+SQL RUNTIME: 1.675 sec. 
+MEMORY STACK: 6MB 
+
+******************************************************************************** 
+ARCHIVE Mode:ZipArchive Multi-Threaded 
+******************************************************************************** 
+ARCHIVE DIR:  C:/xampp/htdocs/sonthuy 
+ARCHIVE FILE: 20190818_sonthuygiaiphaptoandienve_b34a6992231d7fa08666_20190818155354_archive.zip 
+COMPRESSION: *ON* 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+FILES:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	80.44MB 
+STATS:	Dirs 641 | Files 5,168 | Total 5,809 
+SQL ADDED: 20190818_sonthuygiaiphaptoandienve_b34a6992231d7fa08666_20190818155354_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1146
+    [filename] => C:\xampp\htdocs\sonthuy\wp-content\backups-dup-pro\tmp\20190818_sonthuygiaiphaptoandienve_b34a6992231d7fa08666_20190818155354_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2229
+    [filename] => C:\xampp\htdocs\sonthuy\wp-content\backups-dup-pro\tmp\20190818_sonthuygiaiphaptoandienve_b34a6992231d7fa08666_20190818155354_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2740
+    [filename] => C:\xampp\htdocs\sonthuy\wp-content\backups-dup-pro\tmp\20190818_sonthuygiaiphaptoandienve_b34a6992231d7fa08666_20190818155354_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3413
+    [filename] => C:\xampp\htdocs\sonthuy\wp-content\backups-dup-pro\tmp\20190818_sonthuygiaiphaptoandienve_b34a6992231d7fa08666_20190818155354_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4440
+    [filename] => C:\xampp\htdocs\sonthuy\wp-content\backups-dup-pro\tmp\20190818_sonthuygiaiphaptoandienve_b34a6992231d7fa08666_20190818155354_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 5227
+    [filename] => C:\xampp\htdocs\sonthuy\wp-content\backups-dup-pro\tmp\20190818_sonthuygiaiphaptoandienve_b34a6992231d7fa08666_20190818155354_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 5433
+    [filename] => C:\xampp\htdocs\sonthuy\wp-content\backups-dup-pro\tmp\20190818_sonthuygiaiphaptoandienve_b34a6992231d7fa08666_20190818155354_archive.zip
+    [comment] => 
+)
+ 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 5809
+    [filename] => C:\xampp\htdocs\sonthuy\wp-content\backups-dup-pro\tmp\20190818_sonthuygiaiphaptoandienve_b34a6992231d7fa08666_20190818155354_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSED SIZE: 29.11MB 
+ARCHIVE RUNTIME: 13.737 sec. 
+MEMORY STACK: 12MB 
+Installer files added to archive 
+
+******************************************************************************** 
+STORAGE: 
+******************************************************************************** 
+LOCAL: Default, C:/xampp/htdocs/sonthuy/wp-content/backups-dup-pro 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL FILE: 2.1MB 
+INSTALLER FILE: 29.09KB 
+ARCHIVE FILE: 30MB  
+EXPECTED FILE/DIRECTORY COUNT: 5,809 
+ACTUAL FILE/DIRECTORY COUNT: 5,809 
+ARCHIVE CONSISTENCY TEST: Pass 
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 312.214 sec.
+PEAK PHP MEMORY USED: 2MB
+DONE PROCESSING => 20190818_sonthuygiaiphaptoandienve 2019-08-18 16:00:29
+ 
